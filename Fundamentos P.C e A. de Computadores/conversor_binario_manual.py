@@ -1,10 +1,10 @@
 num = int(input("Digite o número que gostaria de converter para binário: "))
 
-bin = ''
+binario = ''
 
 while num > 0:
     resto = num % 2
-    bin = str(resto) + bin
+    binario = str(resto) + binario
     num //= 2
 
-print(f"Esse número em binário é: {bin}")
+print(f"Esse número em binário é: {binario}")
