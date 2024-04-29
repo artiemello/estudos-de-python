@@ -1,2 +1,2 @@
 # estudos de python
- Repositório feito para compartilhar atividades feitas no curso de Ciência da Computação
+ Repositório feito para compartilhar atividades de Python feitas durante a minha graduação em Ciência da Computação
